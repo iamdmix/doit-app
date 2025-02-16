@@ -75,6 +75,7 @@ body {
     border-bottom-left-radius: 999px;
     outline: none; /* Removes default blue outline */
     background-color: var(--input-bg);
+    color: var(--text-color)
 }
 
 .submitbutton {
